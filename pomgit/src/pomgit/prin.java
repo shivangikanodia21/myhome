@@ -9,6 +9,7 @@ public class prin {
 		// TODO Auto-generated method stub
         System.out.println("hello");
         System.out.println("hell1");
+        System.out.println("dev1");
 	}
 
 }
