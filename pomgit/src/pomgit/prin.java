@@ -10,6 +10,7 @@ public class prin {
         System.out.println("hello");
         System.out.println("hell1");
         System.out.println("dev1");
+        System.out.println("dev2");
 	}
 
 }
